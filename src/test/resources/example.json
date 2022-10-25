@@ -1,0 +1,14 @@
+{
+  "id": 12345,
+  "name": "Ivanov Ivan Ivanovich",
+  "fileList": [
+    {
+      "id": 1,
+      "name": "File 1"
+    },
+    {
+      "id": 2,
+      "name": "File 2"
+    }
+  ]
+}
